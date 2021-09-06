@@ -1,6 +1,6 @@
 # SpringMVC
  Learning SpringMVC
- Technolohies used:
+ Technologies used:
  - jdk 8u301
  - apache maven 3.8.2
  - apache tomcat 9.0.52
